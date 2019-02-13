@@ -1,0 +1,29 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "Learn to use Jest testing framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonason/learn-jest.git"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "Jonason Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonason/learn-jest/issues"
+  },
+  "homepage": "https://github.com/Jonason/learn-jest#readme",
+  "devDependencies": {
+    "jest": "24.1.0"
+  }
+}
